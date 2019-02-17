@@ -1,6 +1,5 @@
 let a = 1
-let d = 4
-
+let b = 3
 let c = 3
 
 
